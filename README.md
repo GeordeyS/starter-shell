@@ -1,2 +1,1 @@
-# starter-shell
-just a skeleton, really
+# web-3-starter
